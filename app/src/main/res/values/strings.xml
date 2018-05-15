@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">PhotoBlog</string>
+    <string name="pass_hint">Password</string>
+    <string name="email_hint">Email</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_account_settings">Account Settings</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_settings_btn">Account Settings</string>
+    <string name="confirm_pass_hint">Confirm Password</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="registerLogo">Register logo login</string>
+</resources>
